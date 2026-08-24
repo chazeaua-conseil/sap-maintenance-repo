@@ -30,6 +30,7 @@ moitié des capacités privées.
 - source: <doc + section>
 - release_evaluee: 2608
 - evalue_le: 2026-09-14
+- pays_disponibles                   #Public Edition se livre pays par pays
 
 ### private
 - unite: composant classique <transaction / module> | scope item <ID>
